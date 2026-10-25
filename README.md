@@ -79,16 +79,6 @@ Add the actual IP addresses and packet-header observations from the completed si
 
 Understanding NAT and packet headers helps with network troubleshooting, traffic analysis, and understanding how internal devices communicate with external servers.
 
-## Screenshots
-
-Add screenshots showing:
-
-1. Router Internet connection status.
-2. Local network and DHCP configuration.
-3. IP configuration of the four PCs.
-4. HTTP traffic in Simulation mode.
-5. Inbound and outbound PDU details showing NAT translation.
-
 ## Conclusion
 
 This lab provided hands-on experience examining NAT, private IP addressing, DHCP, and HTTP packet flow in a simulated network environment.
